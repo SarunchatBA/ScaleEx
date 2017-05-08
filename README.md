@@ -1,7 +1,7 @@
 # ScaleEx
 
 - Setup
-   install visual studio lastest version and run project
+   install visual studio lastest version and run project ScaleEx.sln
   
 - Test RestApi
    1.  Post /api/todo for save todo data
