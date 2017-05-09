@@ -12,5 +12,5 @@
    6.  Delete /api/todo/{id} delete todo by todoId
    
 - API Documentation
-   run project and click (Go to documention) button to api online document
+   run project and click (Go to documentation) button to api online document
   
