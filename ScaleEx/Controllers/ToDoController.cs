@@ -63,7 +63,7 @@ namespace ScaleEx.Controllers
             }
         }
         [HttpPatch]
-        // PUT api/<controller>/5
+        // Patch api/<controller>/5
         [ResponseType(typeof(void))]
         public IHttpActionResult Patch(int id, [FromBody]InputStaus input)
         {
